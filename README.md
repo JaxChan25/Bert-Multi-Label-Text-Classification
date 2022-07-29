@@ -1,3 +1,7 @@
+# fork原因
+- 2022年7月29日
+打nlp比赛使用，多标签分类。看看效果好不好。
+
 ## Bert multi-label text classification by PyTorch
 
 This repo contains a PyTorch implementation of the pretrained BERT and XLNET model for multi-label text classification.
